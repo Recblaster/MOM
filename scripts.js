@@ -56,7 +56,7 @@ window.onload = function () {
                 <p class="promise-text">🌟 I'll give my best in studies.</p>
                 <p class="promise-text">💪 I'll wash my garments and dishes myself.</p>
                 <p class="promise-text">❤️ I'll try not to hide things.</p>
-                <p class="promise-text">🌍 I have a few plans to make 10k per month.</p>
+                <p class="promise-text">💵 I have a few plans to make 10k per month.</p>
                 <button class="button">LOVE YOU 💚</button>
             `;
         }
