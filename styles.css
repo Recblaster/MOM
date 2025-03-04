@@ -80,6 +80,11 @@ body {
     background-color: #e91e63;
 }
 
+/* Center alignment for the second last frame */
+.centered-textbox .textbox {
+    text-align: center;
+}
+
 .heart {
     position: absolute;
     bottom: 0;
