@@ -48,16 +48,17 @@ window.onload = function () {
             });
         } else if (frameIndex === 8) {
             frame.classList.add("centered-textbox");
-            createTextBox(frame, "I have one more thing to say...", "Next", nextFrame);
+            createTextBox(frame, "A really reallly happy birthday mummy! I hope tulaa he surprise aavadla asel! Me haa code tujhya saathi banavla, happy birthday pan wish karaycha hota, pan most importantly... i wanted to say that I AM SORRY 🙏🏻 like im soo sorry for whatever happened! I know i shouldnt have done that but kya kar saktey hogaya. I didnt want to do it aur mene saamne se bhi kuch nai kiya! But yes, it was my fault and i genuinly apologise for that and also wanna assure you something...", "HERE'S THE THING💚", nextFrame);
         } else if (frameIndex === 9) {
             createFloatingHearts();
             frame.className = "last-frame";
             frame.innerHTML = `
                 <h2>My Promises To You, Mummy 💖</h2>
-                <p class="promise-text">🌟 I'll always make you proud.</p>
-                <p class="promise-text">💪 I'll never give up on my dreams.</p>
-                <p class="promise-text">❤️ I'll always take care of you.</p>
-                <p class="promise-text">🌍 I'll make the world a better place for you.</p>
+                <p class="promise-text">🌟 I'll always give my best in studies.</p>
+                <p class="promise-text">💪 I'll wash my garments and dishes myself.</p>
+                <p class="promise-text">❤️ I'll try not to lie to you</p>
+                <p class="promise-text">🤞🏻  Will leave my lip bitting habits</p>
+                <p class="promise-text">🌍 I have a few plans to make ₹10K+ per month.</p>
                 <button class="button">LOVE YOU 💚</button>
             `;
         }
